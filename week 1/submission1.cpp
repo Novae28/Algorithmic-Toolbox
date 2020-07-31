@@ -43,7 +43,7 @@ long long MaxPairwise_product(const std::vector<int> &number)
 
 int main() {
 
-    /*while(true)
+    /*while(true)      //stress Testing
     {
         int n=rand()%1000 +2;
         std::cout<<n;
